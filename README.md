@@ -62,7 +62,7 @@
     •	In the Customers table, added a column named "Priority", Equals "High" for customers who own homes and have Golden membership cards (otherwise "Standard")   
     •	In the Customers table, added a column named "Short_Country", Returns the first three characters of the customer country, and converts to all uppercase 
     •	In the Customers table, added a column named "House Number", Extracts all characters/numbers before the first space in the "customer_Addedress" column 
-    •	In the Products table, added a column named "Price Tier", Equals "High" if the retail price is >$3, "Mid" if the retail price is >$1, and "Low" otherwise
+    •	In the Products table, added a column named "Price Tier", Equals "High" if the retail price is >$3,"Mid" if the retail price is >$1, and "Low" otherwise
     •	In the Stores table, added a column named "Years_Since_Remodel", Calculates the number of years between the current date (TODAY()) and the last remodel date.
 
 
