@@ -2,7 +2,7 @@
   Sales Performance , Product and Customer Profile of  a Multi National Beverages company in the United states 
   
 ## Power BI Service
-   Please see Link: https://app.powerbi.com/links/fImM0D9_20?ctid=140b08c1-b320-45f9-9bc0-9452a8413a64&pbi_source=linkShare
+   Please click on this link to interact with the report on Power BI Service: https://app.powerbi.com/links/fImM0D9_20?ctid=140b08c1-b320-45f9-9bc0-9452a8413a64&pbi_source=linkShare
    
 ## Tools and Technology
     Microsoft Excel:
