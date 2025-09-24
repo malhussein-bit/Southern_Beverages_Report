@@ -13,11 +13,11 @@
 
 ## Data Connection and Workflow 
     Connected to the SouthernBeverages_Customers csv file
-    •	Named the table "Customers", and make sure that headers have been promoted
+    •	Named the table "Customers", and made sure that headers have been promoted
     •	Confirmed that data types are accurate and of the correct 
     •	Added a new column named "full_name" to merge the the "first_name" and "last_name" columns.
-    •	Create a new column named "birth_year" to extract the year from the "birthdate" column.
-    •	Create a conditional column named "has_children" which equals "N" if "total_children" = 0, OR "Y"
+    •	Created a new column named "birth_year" to extract the year from the "birthdate" column.
+    •	Created a conditional column named "has_children" which equals "N" if "total_children" = 0, OR "Y"
 
     Connected to the SouthernBeverages_Products csv file
     •	Name the table "Products" and made sure that headers have been promoted
